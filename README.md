@@ -1,0 +1,3 @@
+Buen día, espero se encuentre bien, envió la prueba técnica y disculpe la hora del envió pero tenía responsabilidades en mi actual trabajo, espero que el trabajo sea de su agrado
+
+EL proyecto esta realizado con React Native y Expo CLI, cuenta con la maquetación para diseño móvil, puede ejecutarlo utilizando la APP Expo Go desde su celular y unicamente en su ordenador ejecute el comando "npm start" claramente con el Expo CLI instalado.
